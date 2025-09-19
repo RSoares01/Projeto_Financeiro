@@ -1,0 +1,12 @@
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\bin\Debug\net8.0\Projeto_Financeiro.Domain.deps.json
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\bin\Debug\net8.0\Projeto_Financeiro.Domain.dll
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\bin\Debug\net8.0\Projeto_Financeiro.Domain.pdb
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\obj\Debug\net8.0\Projeto_Financeiro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\obj\Debug\net8.0\Projeto_Financeiro.Domain.AssemblyInfoInputs.cache
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\obj\Debug\net8.0\Projeto_Financeiro.Domain.AssemblyInfo.cs
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\obj\Debug\net8.0\Projeto_Financeiro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\obj\Debug\net8.0\Projeto_Financeiro.Domain.sourcelink.json
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\obj\Debug\net8.0\Projeto_Financeiro.Domain.dll
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\obj\Debug\net8.0\refint\Projeto_Financeiro.Domain.dll
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\obj\Debug\net8.0\Projeto_Financeiro.Domain.pdb
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Domain\obj\Debug\net8.0\ref\Projeto_Financeiro.Domain.dll

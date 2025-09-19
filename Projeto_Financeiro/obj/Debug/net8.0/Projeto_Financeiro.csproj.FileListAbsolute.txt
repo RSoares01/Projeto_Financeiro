@@ -1,0 +1,8 @@
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro\obj\Debug\net8.0\Projeto_Financeiro.csproj.AssemblyReference.cache
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro\obj\Debug\net8.0\Projeto_Financeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro\obj\Debug\net8.0\Projeto_Financeiro.AssemblyInfoInputs.cache
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro\obj\Debug\net8.0\Projeto_Financeiro.AssemblyInfo.cs
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro\obj\Debug\net8.0\Projeto_Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro\obj\Debug\net8.0\Projeto_Financeiro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro\obj\Debug\net8.0\Projeto_Financeiro.sourcelink.json
