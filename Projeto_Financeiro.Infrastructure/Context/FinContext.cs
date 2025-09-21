@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using Projeto_Financeiro.Domain.Entity;
+using Projeto_Financeiro.Domain.Entities;
 
 namespace Projeto_Financeiro.Infrastructure.Context
 {

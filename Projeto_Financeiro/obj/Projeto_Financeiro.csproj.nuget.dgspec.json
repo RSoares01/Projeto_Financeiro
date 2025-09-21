@@ -31,7 +31,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\gigim\\OneDrive\\Área de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj": {
+                "projectPath": "C:\\Users\\gigim\\OneDrive\\Área de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

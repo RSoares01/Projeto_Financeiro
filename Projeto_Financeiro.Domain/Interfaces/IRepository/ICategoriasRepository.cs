@@ -1,4 +1,4 @@
-﻿using Projeto_Financeiro.Domain.Entity;
+﻿using Projeto_Financeiro.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

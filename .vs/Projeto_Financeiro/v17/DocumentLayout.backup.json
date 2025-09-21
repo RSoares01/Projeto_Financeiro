@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|c:\\users\\gigim\\onedrive\\\u00E1rea de trabalho\\rafael\\repository\\projeto_financeiro\\projeto_financeiro.infrastructure\\respository\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|solutionrelative:projeto_financeiro.infrastructure\\respository\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\gigim\\onedrive\\\u00E1rea de trabalho\\rafael\\repository\\projeto_financeiro\\projeto_financeiro.application\\services\\interfaces\\icategoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\interfaces\\icategoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\gigim\\onedrive\\\u00E1rea de trabalho\\rafael\\repository\\projeto_financeiro\\projeto_financeiro.application\\dtos\\categoriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\dtos\\categoriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\gigim\\onedrive\\\u00E1rea de trabalho\\rafael\\repository\\projeto_financeiro\\projeto_financeiro.application\\services\\categoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\categoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|c:\\users\\gigim\\onedrive\\\u00E1rea de trabalho\\rafael\\repository\\projeto_financeiro\\projeto_financeiro.infrastructure\\context\\fincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|solutionrelative:projeto_financeiro.infrastructure\\context\\fincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|c:\\users\\gigim\\onedrive\\\u00E1rea de trabalho\\rafael\\repository\\projeto_financeiro\\projeto_financeiro.domain\\entities\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|solutionrelative:projeto_financeiro.domain\\entities\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|c:\\users\\gigim\\onedrive\\\u00E1rea de trabalho\\rafael\\repository\\projeto_financeiro\\projeto_financeiro.domain\\interfaces\\irepository\\icategoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|solutionrelative:projeto_financeiro.domain\\interfaces\\irepository\\icategoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|c:\\users\\gigim\\onedrive\\\u00E1rea de trabalho\\rafael\\repository\\projeto_financeiro\\projeto_financeiro.infrastructure\\respositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|solutionrelative:projeto_financeiro.infrastructure\\respositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,16 +38,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FinContext.cs",
               "DocumentMoniker": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
               "RelativeDocumentMoniker": "Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
-              "ToolTip": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs*",
-              "RelativeToolTip": "Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs*",
+              "ToolTip": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T20:30:00.783Z",
@@ -40,28 +56,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriasRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Respository\\CategoriasRepository.cs",
-              "RelativeDocumentMoniker": "Projeto_Financeiro.Infrastructure\\Respository\\CategoriasRepository.cs",
-              "ToolTip": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Respository\\CategoriasRepository.cs*",
-              "RelativeToolTip": "Projeto_Financeiro.Infrastructure\\Respository\\CategoriasRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoriasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\DTOs\\CategoriasDTO.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\DTOs\\CategoriasDTO.cs",
+              "ToolTip": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\DTOs\\CategoriasDTO.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Application\\DTOs\\CategoriasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T20:25:43.434Z",
+              "WhenOpened": "2025-09-21T00:28:15.124Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CategoriasService.cs",
+              "DocumentMoniker": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\CategoriasService.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\Services\\CategoriasService.cs",
+              "ToolTip": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\CategoriasService.cs*",
+              "RelativeToolTip": "Projeto_Financeiro.Application\\Services\\CategoriasService.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T00:29:31.84Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICategoriasService.cs",
+              "DocumentMoniker": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\Interfaces\\ICategoriasService.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\Services\\Interfaces\\ICategoriasService.cs",
+              "ToolTip": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\Interfaces\\ICategoriasService.cs*",
+              "RelativeToolTip": "Projeto_Financeiro.Application\\Services\\Interfaces\\ICategoriasService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T00:47:29.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Entities\\Categorias.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Domain\\Entities\\Categorias.cs",
+              "ToolTip": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Entities\\Categorias.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Domain\\Entities\\Categorias.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T00:28:33.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ICategoriasRepository.cs",
               "DocumentMoniker": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Interfaces\\IRepository\\ICategoriasRepository.cs",
               "RelativeDocumentMoniker": "Projeto_Financeiro.Domain\\Interfaces\\IRepository\\ICategoriasRepository.cs",
               "ToolTip": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Interfaces\\IRepository\\ICategoriasRepository.cs",
               "RelativeToolTip": "Projeto_Financeiro.Domain\\Interfaces\\IRepository\\ICategoriasRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T20:23:40.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Respositories\\CategoriasRepository.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Infrastructure\\Respositories\\CategoriasRepository.cs",
+              "ToolTip": "C:\\Users\\gigim\\OneDrive\\\u00C1rea de Trabalho\\Rafael\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Respositories\\CategoriasRepository.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Infrastructure\\Respositories\\CategoriasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:25:43.434Z",
               "EditorCaption": ""
             }
           ]
