@@ -11,3 +11,6 @@ C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\P
 C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Application\obj\Debug\net8.0\Projeto_Financeiro.Application.pdb
 C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Application\obj\Debug\net8.0\ref\Projeto_Financeiro.Application.dll
 C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Application\obj\Debug\net8.0\Projeto_Financeiro.Application.csproj.AssemblyReference.cache
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Application\bin\Debug\net8.0\Projeto_Financeiro.Domain.dll
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Application\bin\Debug\net8.0\Projeto_Financeiro.Domain.pdb
+C:\Users\gigim\OneDrive\Área de Trabalho\Rafael\Repository\Projeto_Financeiro\Projeto_Financeiro.Application\obj\Debug\net8.0\Projeto_.3755723D.Up2Date

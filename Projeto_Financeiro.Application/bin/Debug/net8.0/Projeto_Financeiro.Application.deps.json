@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Projeto_Financeiro.Application/1.0.0": {
+        "dependencies": {
+          "Projeto_Financeiro.Domain": "1.0.0"
+        },
         "runtime": {
           "Projeto_Financeiro.Application.dll": {}
+        }
+      },
+      "Projeto_Financeiro.Domain/1.0.0": {
+        "runtime": {
+          "Projeto_Financeiro.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Projeto_Financeiro.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projeto_Financeiro.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

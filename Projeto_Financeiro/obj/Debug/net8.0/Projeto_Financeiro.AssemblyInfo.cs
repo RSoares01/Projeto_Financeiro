@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto_Financeiro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e5d2c8efe974a5d1a0ad6049c449fd08f493be4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15c261132ce8506b949a00ee678658cf394b3898")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto_Financeiro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto_Financeiro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,7 +3,7 @@ using Projeto_Financeiro.Domain.Entities;
 using Projeto_Financeiro.Domain.Interfaces.IRepository;
 using Projeto_Financeiro.Infrastructure.Context;
 
-namespace Projeto_Financeiro.Infrastructure.Respository
+namespace Projeto_Financeiro.Infrastructure.Repositories
 {
     public class CategoriasRepository : ICategoriasRepository
     {
