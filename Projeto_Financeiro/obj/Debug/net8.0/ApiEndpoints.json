@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "Projeto_Financeiro.Controllers.CategoriaController",
-    "Method": "GetAllCategoriaAsync",
-    "RelativePath": "api/Categoria/listar",
+    "ContainingType": "Projeto_Financeiro.Controllers.CategoriasController",
+    "Method": "GetAllCategoria",
+    "RelativePath": "api/Categorias",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -21,6 +21,38 @@
         "Name": "search",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Projeto_Financeiro.Controllers.CategoriasController",
+    "Method": "CreateCategoria",
+    "RelativePath": "api/Categorias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categorias",
+        "Type": "Projeto_Financeiro.Application.DTOs.CategoriasDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Projeto_Financeiro.Controllers.CategoriasController",
+    "Method": "GetCategoriasById",
+    "RelativePath": "api/Categorias/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
