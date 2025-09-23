@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro\\controllers\\transacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|solutionrelative:projeto_financeiro\\controllers\\transacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.infrastructure\\repositories\\transacoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|solutionrelative:projeto_financeiro.infrastructure\\repositories\\transacoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.domain\\interfaces\\irepositories\\itransacoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|solutionrelative:projeto_financeiro.domain\\interfaces\\irepositories\\itransacoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.application\\services\\transacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\transacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.application\\services\\interfaces\\itransacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\interfaces\\itransacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.application\\dtos\\transacoesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\dtos\\transacoesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.domain\\entities\\transacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|solutionrelative:projeto_financeiro.domain\\entities\\transacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.domain\\entities\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|solutionrelative:projeto_financeiro.domain\\entities\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|solutionrelative:projeto_financeiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|solutionrelative:projeto_financeiro\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +47,20 @@
       "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\categoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.application\\dtos\\categoriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\dtos\\categoriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.application\\services\\interfaces\\icategoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\interfaces\\icategoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.infrastructure\\context\\fincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|solutionrelative:projeto_financeiro.infrastructure\\context\\fincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.infrastructure\\repositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|solutionrelative:projeto_financeiro.infrastructure\\repositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|c:\\users\\rafael\\documents\\projetosgit\\projeto_financeiro\\projeto_financeiro.domain\\interfaces\\irepositories\\icategoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|solutionrelative:projeto_financeiro.domain\\interfaces\\irepositories\\icategoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +78,200 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "TransacoesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\DTOs\\TransacoesDTO.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\DTOs\\TransacoesDTO.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\DTOs\\TransacoesDTO.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Application\\DTOs\\TransacoesDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T23:41:52.736Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CategoriasService.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\CategoriasService.cs",
               "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\Services\\CategoriasService.cs",
               "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\CategoriasService.cs",
               "RelativeToolTip": "Projeto_Financeiro.Application\\Services\\CategoriasService.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAswDAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwFoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:48:36.082Z",
+              "WhenOpened": "2025-09-22T23:26:40.339Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoriasDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\DTOs\\CategoriasDTO.cs",
-              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\DTOs\\CategoriasDTO.cs",
-              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\DTOs\\CategoriasDTO.cs",
-              "RelativeToolTip": "Projeto_Financeiro.Application\\DTOs\\CategoriasDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TransacoesService.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\TransacoesService.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\Services\\TransacoesService.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\TransacoesService.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Application\\Services\\TransacoesService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T01:55:04.889Z",
+              "WhenOpened": "2025-09-22T23:46:11.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransacoesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Repositories\\TransacoesRepository.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Infrastructure\\Repositories\\TransacoesRepository.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Repositories\\TransacoesRepository.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Infrastructure\\Repositories\\TransacoesRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAxwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T23:27:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransacoesService.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\Interfaces\\ITransacoesService.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\Services\\Interfaces\\ITransacoesService.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\Interfaces\\ITransacoesService.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Application\\Services\\Interfaces\\ITransacoesService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T23:43:32.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Entities\\Categorias.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Domain\\Entities\\Categorias.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Entities\\Categorias.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Domain\\Entities\\Categorias.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:20:45.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TransacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro\\Controllers\\TransacoesController.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro\\Controllers\\TransacoesController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro\\Controllers\\TransacoesController.cs",
+              "RelativeToolTip": "Projeto_Financeiro\\Controllers\\TransacoesController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwHQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:37:55.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITransacoesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ITransacoesRepository.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ITransacoesRepository.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ITransacoesRepository.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ITransacoesRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:57:27.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Entities\\Transacoes.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Domain\\Entities\\Transacoes.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Entities\\Transacoes.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Domain\\Entities\\Transacoes.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:25:21.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoriasService.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\Interfaces\\ICategoriasService.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\Services\\Interfaces\\ICategoriasService.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\Interfaces\\ICategoriasService.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Application\\Services\\Interfaces\\ICategoriasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T23:43:52.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro\\Program.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro\\Program.cs",
+              "RelativeToolTip": "Projeto_Financeiro\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T23:26:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "Projeto_Financeiro\\Controllers\\CategoriasController.cs",
               "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro\\Controllers\\CategoriasController.cs",
               "RelativeToolTip": "Projeto_Financeiro\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T01:36:02.379Z",
+              "WhenOpened": "2025-09-23T01:42:48.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FinContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T23:29:08.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Repositories\\CategoriasRepository.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Infrastructure\\Repositories\\CategoriasRepository.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Repositories\\CategoriasRepository.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Infrastructure\\Repositories\\CategoriasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T23:26:50.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICategoriasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ICategoriasRepository.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ICategoriasRepository.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ICategoriasRepository.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ICategoriasRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T23:25:00.869Z",
               "EditorCaption": ""
             }
           ]

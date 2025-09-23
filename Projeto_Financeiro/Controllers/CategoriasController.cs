@@ -8,11 +8,11 @@ namespace Projeto_Financeiro.Controllers
     [Route("api/[controller]")]
     public class CategoriasController : ControllerBase
     {
-        private readonly ICategoriasService _categoriasService;
+        private readonly ICategoriasService _service;
 
-        public CategoriasController(ICategoriasService categoriasService)
+        public CategoriasController(ICategoriasService service)
         {
-            _categoriasService = categoriasService;
+            _service = service;
         }
 
         [HttpGet]
@@ -26,7 +26,7 @@ namespace Projeto_Financeiro.Controllers
                 if (page < 1) page = 1;
                 if (pageSize < 10) pageSize = 10;
 
-                var todasCategorias = (await _categoriasService.GetAllCategoriasAsync()).ToList();
+                var todasCategorias = (await _service.GetAllCategoriasAsync()).ToList();
 
                 if (!string.IsNullOrWhiteSpace(search))
                     todasCategorias = todasCategorias
@@ -62,7 +62,7 @@ namespace Projeto_Financeiro.Controllers
         {
             try
             {
-                var categoria = _categoriasService.GetCategoriasByIdAsync(id);
+                var categoria = _service.GetCategoriasByIdAsync(id);
                 if (categoria == null)
                     return NotFound(new { message = $"Categoria com ID {id} não encontrado." });
 
@@ -82,7 +82,7 @@ namespace Projeto_Financeiro.Controllers
 
             try
             {
-                var createdCategoria = await _categoriasService.CreateCategoriasAsync(categorias);
+                var createdCategoria = await _service.CreateCategoriasAsync(categorias);
                 if (createdCategoria == null)
                     return StatusCode(500, new { error = "Falha ao criar a categoria." });
 

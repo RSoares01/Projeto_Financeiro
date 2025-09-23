@@ -9,16 +9,26 @@ namespace Projeto_Financeiro.Infrastructure.Context
         public FinContext(DbContextOptions<FinContext> options) : base(options) { }
 
         public DbSet<Categorias> Categorias { get; set; }
+        public DbSet<Transacoes> Transacoes { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder) 
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<Categorias>(entity =>
-            {
-                entity.ToTable("Categorias");
-                entity.HasKey(c => c.Id);
-            });
+            //Tabelas 
+            modelBuilder.Entity<Categorias>().ToTable("Categorias");
+            modelBuilder.Entity<Transacoes>().ToTable("Transacoes");
+
+            //Chaves primárias
+            modelBuilder.Entity<Categorias>().HasKey(c => c.Id);
+            modelBuilder.Entity<Transacoes>().HasKey(t => t.Id);
+
+            //Chaves estrangeiras 
+            modelBuilder.Entity<Transacoes>()
+                .HasOne(c => c.Categoria)
+                .WithMany()
+                .HasForeignKey(c => c.CategoriaId)
+                .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }

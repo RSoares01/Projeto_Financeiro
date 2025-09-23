@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Projeto_Financeiro.Domain.Interfaces.IRepository
+namespace Projeto_Financeiro.Domain.Interfaces.IRepositories
 {
     public interface ICategoriasRepository
     {

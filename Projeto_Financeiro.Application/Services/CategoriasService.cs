@@ -1,7 +1,7 @@
 ﻿using Projeto_Financeiro.Application.DTOs;
 using Projeto_Financeiro.Application.Services.Interfaces;
 using Projeto_Financeiro.Domain.Entities;
-using Projeto_Financeiro.Domain.Interfaces.IRepository;
+using Projeto_Financeiro.Domain.Interfaces.IRepositories;
 namespace Projeto_Financeiro.Application.Services
 {
     public class CategoriaService : ICategoriasService

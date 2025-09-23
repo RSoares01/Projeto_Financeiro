@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Projeto_Financeiro.Domain.Entities;
-using Projeto_Financeiro.Domain.Interfaces.IRepository;
+using Projeto_Financeiro.Domain.Interfaces.IRepositories;
 using Projeto_Financeiro.Infrastructure.Context;
 
 namespace Projeto_Financeiro.Infrastructure.Repositories
