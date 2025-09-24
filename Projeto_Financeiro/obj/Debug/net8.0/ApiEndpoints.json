@@ -233,5 +233,26 @@
         "StatusCode": 404
       }
     ]
+  },
+  {
+    "ContainingType": "Projeto_Financeiro.Controllers.RelatorioController",
+    "Method": "ObterResumo",
+    "RelativePath": "resumo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dataInicio",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataFim",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

@@ -21,6 +21,8 @@ builder.Services.AddScoped<ICategoriasService, CategoriaService>();
 builder.Services.AddScoped<ICategoriasRepository, CategoriasRepository>();
 builder.Services.AddScoped<ITransacoesService, TransacoesService>();
 builder.Services.AddScoped<ITransacoesRepository, TransacoesRepository>();
+builder.Services.AddScoped<IRelatorioRepository, RelatorioRepository>();
+builder.Services.AddScoped<IObterResumoFinanceiroService, ObterResumoFinanceiroService>();
 
 var app = builder.Build();
 

@@ -46,3 +46,5 @@ C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Finance
 C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\refint\Projeto_Financeiro.Infrastructure.dll
 C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_Financeiro.Infrastructure.pdb
 C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\ref\Projeto_Financeiro.Infrastructure.dll
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\bin\Debug\net8.0\Projeto_Financeiro.Application.dll
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\bin\Debug\net8.0\Projeto_Financeiro.Application.pdb

@@ -11,6 +11,7 @@
           "Microsoft.EntityFrameworkCore": "8.0.0",
           "Microsoft.EntityFrameworkCore.Abstractions": "8.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
+          "Projeto_Financeiro.Application": "1.0.0",
           "Projeto_Financeiro.Domain": "1.0.0"
         },
         "runtime": {
@@ -554,6 +555,17 @@
           }
         }
       },
+      "Projeto_Financeiro.Application/1.0.0": {
+        "dependencies": {
+          "Projeto_Financeiro.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Projeto_Financeiro.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Projeto_Financeiro.Domain/1.0.0": {
         "runtime": {
           "Projeto_Financeiro.Domain.dll": {
@@ -947,6 +959,11 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "Projeto_Financeiro.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Projeto_Financeiro.Domain/1.0.0": {
       "type": "project",

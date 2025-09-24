@@ -166,6 +166,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj": {
+                "projectPath": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj"
+              },
               "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj": {
                 "projectPath": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj"
               }

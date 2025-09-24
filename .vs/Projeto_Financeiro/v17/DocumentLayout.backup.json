@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|solutionrelative:projeto_financeiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|solutionrelative:projeto_financeiro\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.application\\services\\obterresumofinanceiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\obterresumofinanceiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.application\\services\\interfaces\\iobterresumofinanceiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\interfaces\\iobterresumofinanceiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.application\\services\\interfaces\\itransacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\interfaces\\itransacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.infrastructure\\context\\fincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|solutionrelative:projeto_financeiro.infrastructure\\context\\fincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.infrastructure\\repositories\\relatoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|solutionrelative:projeto_financeiro.infrastructure\\repositories\\relatoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.domain\\interfaces\\irepositories\\irelatoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|solutionrelative:projeto_financeiro.domain\\interfaces\\irepositories\\irelatoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.domain\\readmodel\\resumofinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|solutionrelative:projeto_financeiro.domain\\readmodel\\resumofinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.domain\\interfaces\\irepositories\\itransacoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|solutionrelative:projeto_financeiro.domain\\interfaces\\irepositories\\itransacoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.infrastructure\\repositories\\transacoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D5CE45-0E4E-4DEA-A5C2-5354B023E570}|Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj|solutionrelative:projeto_financeiro.infrastructure\\repositories\\transacoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.domain\\projeto_financeiro.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC804725-CC21-41EE-8C71-1D8E7ECC3D6E}|Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj|solutionrelative:projeto_financeiro.domain\\projeto_financeiro.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.application\\services\\categoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\categoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro\\controllers\\transacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|solutionrelative:projeto_financeiro\\controllers\\transacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C7042EC-5F90-419E-AA9B-02B59DFD9978}|Projeto_Financeiro\\Projeto_Financeiro.csproj|solutionrelative:projeto_financeiro\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.application\\services\\categoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|solutionrelative:projeto_financeiro.application\\services\\categoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26F7D39E-F153-44D6-B5B8-DBC6111F89FB}|Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj|c:\\users\\andrea\\desktop\\rafael(melhor genro do mundo)\\repository\\projeto_financeiro\\projeto_financeiro.application\\dtos\\categoriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +74,171 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro\\Program.cs",
+              "RelativeToolTip": "Projeto_Financeiro\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:36:48.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransacoesService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\Interfaces\\ITransacoesService.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\Services\\Interfaces\\ITransacoesService.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\Interfaces\\ITransacoesService.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Application\\Services\\Interfaces\\ITransacoesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:28:19.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelatorioController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro\\Controllers\\RelatorioController.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro\\Controllers\\RelatorioController.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro\\Controllers\\RelatorioController.cs",
+              "RelativeToolTip": "Projeto_Financeiro\\Controllers\\RelatorioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:26:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IObterResumoFinanceiroService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\Interfaces\\IObterResumoFinanceiroService.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\Services\\Interfaces\\IObterResumoFinanceiroService.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\Interfaces\\IObterResumoFinanceiroService.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Application\\Services\\Interfaces\\IObterResumoFinanceiroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:22:31.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObterResumoFinanceiroService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\ObterResumoFinanceiroService.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\Services\\ObterResumoFinanceiroService.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\ObterResumoFinanceiroService.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Application\\Services\\ObterResumoFinanceiroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:20:49.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Infrastructure\\Context\\FinContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:04:29.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResumoFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\ReadModel\\ResumoFinanceiro.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Domain\\ReadModel\\ResumoFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\ReadModel\\ResumoFinanceiro.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Domain\\ReadModel\\ResumoFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:56:51.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITransacoesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ITransacoesRepository.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ITransacoesRepository.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ITransacoesRepository.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\ITransacoesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:30:43.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransacoesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Repositories\\TransacoesRepository.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Infrastructure\\Repositories\\TransacoesRepository.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Repositories\\TransacoesRepository.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Infrastructure\\Repositories\\TransacoesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:30:25.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRelatorioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\IRelatorioRepository.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\IRelatorioRepository.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\IRelatorioRepository.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Domain\\Interfaces\\IRepositories\\IRelatorioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:21:43.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelatorioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Repositories\\RelatorioRepository.cs",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Infrastructure\\Repositories\\RelatorioRepository.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Repositories\\RelatorioRepository.cs",
+              "RelativeToolTip": "Projeto_Financeiro.Infrastructure\\Repositories\\RelatorioRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:17:27.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Projeto_Financeiro.Domain",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj",
+              "RelativeDocumentMoniker": "Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj",
+              "RelativeToolTip": "Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T20:13:51.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "TransacoesController.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro\\Controllers\\TransacoesController.cs",
               "RelativeDocumentMoniker": "Projeto_Financeiro\\Controllers\\TransacoesController.cs",
@@ -38,28 +246,24 @@
               "RelativeToolTip": "Projeto_Financeiro\\Controllers\\TransacoesController.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T19:13:57.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-09-24T19:13:57.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "CategoriasService.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\CategoriasService.cs",
               "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\Services\\CategoriasService.cs",
               "ToolTip": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Services\\CategoriasService.cs",
               "RelativeToolTip": "Projeto_Financeiro.Application\\Services\\CategoriasService.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAswDAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:48:36.082Z"
+              "WhenOpened": "2025-09-22T22:48:36.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "CategoriasDTO.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\DTOs\\CategoriasDTO.cs",
               "RelativeDocumentMoniker": "Projeto_Financeiro.Application\\DTOs\\CategoriasDTO.cs",
@@ -71,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "Projeto_Financeiro\\Controllers\\CategoriasController.cs",

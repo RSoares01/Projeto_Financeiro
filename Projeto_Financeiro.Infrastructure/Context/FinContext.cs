@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Projeto_Financeiro.Domain.Entities;
+using Projeto_Financeiro.Domain.ReadModel;
 
 namespace Projeto_Financeiro.Infrastructure.Context
 {
@@ -10,6 +11,9 @@ namespace Projeto_Financeiro.Infrastructure.Context
 
         public DbSet<Categorias> Categorias { get; set; }
         public DbSet<Transacoes> Transacoes { get; set; }
+
+        public DbSet<ResumoFinanceiro> ResumoFinanceiro { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder) 
         {
@@ -22,6 +26,10 @@ namespace Projeto_Financeiro.Infrastructure.Context
             //Chaves primárias
             modelBuilder.Entity<Categorias>().HasKey(c => c.Id);
             modelBuilder.Entity<Transacoes>().HasKey(t => t.Id);
+
+            //Não tem PK
+            modelBuilder.Entity<ResumoFinanceiro>().HasNoKey();
+
 
             //Chaves estrangeiras 
             modelBuilder.Entity<Transacoes>()
