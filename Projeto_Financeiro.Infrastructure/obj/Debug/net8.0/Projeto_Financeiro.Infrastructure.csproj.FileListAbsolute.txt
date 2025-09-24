@@ -30,3 +30,19 @@ C:\Users\Rafael\Documents\ProjetosGIT\Projeto_Financeiro\Projeto_Financeiro.Infr
 C:\Users\Rafael\Documents\ProjetosGIT\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\refint\Projeto_Financeiro.Infrastructure.dll
 C:\Users\Rafael\Documents\ProjetosGIT\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_Financeiro.Infrastructure.pdb
 C:\Users\Rafael\Documents\ProjetosGIT\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\ref\Projeto_Financeiro.Infrastructure.dll
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\bin\Debug\net8.0\Projeto_Financeiro.Infrastructure.deps.json
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\bin\Debug\net8.0\Projeto_Financeiro.Infrastructure.dll
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\bin\Debug\net8.0\Projeto_Financeiro.Infrastructure.pdb
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\bin\Debug\net8.0\Projeto_Financeiro.Domain.dll
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\bin\Debug\net8.0\Projeto_Financeiro.Domain.pdb
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_Financeiro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_Financeiro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_Financeiro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_Financeiro.Infrastructure.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_Financeiro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_Financeiro.Infrastructure.sourcelink.json
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_.0645004F.Up2Date
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_Financeiro.Infrastructure.dll
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\refint\Projeto_Financeiro.Infrastructure.dll
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\Projeto_Financeiro.Infrastructure.pdb
+C:\Users\Andrea\Desktop\Rafael(Melhor Genro do Mundo)\Repository\Projeto_Financeiro\Projeto_Financeiro.Infrastructure\obj\Debug\net8.0\ref\Projeto_Financeiro.Infrastructure.dll

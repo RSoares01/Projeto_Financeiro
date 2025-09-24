@@ -8385,23 +8385,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rafael\\.nuget\\packages\\": {},
+    "C:\\Users\\Andrea\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro\\Projeto_Financeiro.csproj",
+      "projectUniqueName": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro\\Projeto_Financeiro.csproj",
       "projectName": "Projeto_Financeiro",
-      "projectPath": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro\\Projeto_Financeiro.csproj",
-      "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro\\obj\\",
+      "projectPath": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro\\Projeto_Financeiro.csproj",
+      "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8416,17 +8416,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj": {
-              "projectPath": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj"
+            "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj": {
+              "projectPath": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Application\\Projeto_Financeiro.Application.csproj"
             },
-            "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj": {
-              "projectPath": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj"
+            "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj": {
+              "projectPath": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Domain\\Projeto_Financeiro.Domain.csproj"
             },
-            "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj"
+            "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Infrastructure\\Projeto_Financeiro.Infrastructure.csproj"
             },
-            "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Tests\\Projeto_Financeiro.Tests.csproj": {
-              "projectPath": "C:\\Users\\Rafael\\Documents\\ProjetosGIT\\Projeto_Financeiro\\Projeto_Financeiro.Tests\\Projeto_Financeiro.Tests.csproj"
+            "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Tests\\Projeto_Financeiro.Tests.csproj": {
+              "projectPath": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository\\Projeto_Financeiro\\Projeto_Financeiro.Tests\\Projeto_Financeiro.Tests.csproj"
             }
           }
         }
@@ -8441,7 +8441,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -8475,7 +8475,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
