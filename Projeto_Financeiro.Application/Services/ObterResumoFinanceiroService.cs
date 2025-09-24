@@ -13,7 +13,7 @@ namespace Projeto_Financeiro.Application.Services
             _repository = repository;
         }
 
-        public async Task<ResumoFinanceiro> spResumoAsync(DateTime dataInicio, DateTime dataFim)
+        public async Task<List<ResumoFinanceiro>> spResumoAsync(DateTime dataInicio, DateTime dataFim)
         {
             return await _repository.ObterResumoAsync(dataInicio, dataFim);
         }

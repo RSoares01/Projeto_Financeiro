@@ -4,6 +4,6 @@ namespace Projeto_Financeiro.Application.Services.Interfaces
 {
     public interface IObterResumoFinanceiroService
     {
-        Task<ResumoFinanceiro> spResumoAsync(DateTime dataInicio, DateTime dataFim);
+        Task<List<ResumoFinanceiro>> spResumoAsync(DateTime dataInicio, DateTime dataFim);
     }
 }

@@ -1,11 +1,15 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using OfficeOpenXml;
 using Projeto_Financeiro.Application.Services;
 using Projeto_Financeiro.Application.Services.Interfaces;
+using Projeto_Financeiro.Domain.Interfaces.IRepositories;
 using Projeto_Financeiro.Infrastructure.Context;
 using Projeto_Financeiro.Infrastructure.Repositories;
-using Projeto_Financeiro.Domain.Interfaces.IRepositories;
 
 var builder = WebApplication.CreateBuilder(args);
+
+ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
 
 // Add services to the container.
 builder.Services.AddControllers();
@@ -23,6 +27,8 @@ builder.Services.AddScoped<ITransacoesService, TransacoesService>();
 builder.Services.AddScoped<ITransacoesRepository, TransacoesRepository>();
 builder.Services.AddScoped<IRelatorioRepository, RelatorioRepository>();
 builder.Services.AddScoped<IObterResumoFinanceiroService, ObterResumoFinanceiroService>();
+builder.Services.AddScoped<IObterRelatorioCategoriaService,  ObterRelatorioCategoriaService>();
+builder.Services.AddScoped<IResumoExcelService, ResumoExcelService>();
 
 var app = builder.Build();
 

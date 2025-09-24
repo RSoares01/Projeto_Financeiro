@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="EPPlus" Version="5.8.14" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Projeto_Financeiro.Domain\Projeto_Financeiro.Domain.csproj" />
   </ItemGroup>
 

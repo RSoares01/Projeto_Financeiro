@@ -13,6 +13,7 @@ namespace Projeto_Financeiro.Infrastructure.Context
         public DbSet<Transacoes> Transacoes { get; set; }
 
         public DbSet<ResumoFinanceiro> ResumoFinanceiro { get; set; }
+        public DbSet<RelatorioCategoria> RelatorioCategoria { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder) 
@@ -29,6 +30,7 @@ namespace Projeto_Financeiro.Infrastructure.Context
 
             //Não tem PK
             modelBuilder.Entity<ResumoFinanceiro>().HasNoKey();
+            modelBuilder.Entity<RelatorioCategoria>().HasNoKey();
 
 
             //Chaves estrangeiras 
