@@ -1,9 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-<<<<<<< HEAD
 using OfficeOpenXml;
-=======
 using Projeto_Financeiro.Infrastructure.Middleware;
->>>>>>> TratativaErros
 using Projeto_Financeiro.Application.Services;
 using Projeto_Financeiro.Application.Services.Interfaces;
 using Projeto_Financeiro.Domain.Interfaces.IRepositories;
