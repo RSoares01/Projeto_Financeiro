@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Projeto_Financeiro.Application.Services.Interfaces;
 
 namespace Projeto_Financeiro.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class RelatoriosController : ControllerBase

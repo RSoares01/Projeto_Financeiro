@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Projeto_Financeiro.Application.DTOs;
 using Projeto_Financeiro.Application.Services.Interfaces;
 
 namespace Projeto_Financeiro.API.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class TransacoesController : ControllerBase
