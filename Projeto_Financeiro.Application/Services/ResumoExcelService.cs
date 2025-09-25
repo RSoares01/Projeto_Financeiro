@@ -3,20 +3,24 @@ using OfficeOpenXml.Style;
 using Projeto_Financeiro.Application.Services.Interfaces;
 using Projeto_Financeiro.Domain.ReadModel;
 using System.Drawing;
+using Microsoft.Extensions.Configuration;
+using System.IO;
 
 namespace Projeto_Financeiro.Application.Services
 {
     public class ResumoExcelService : IResumoExcelService
     {
-        private readonly IObterResumoFinanceiroService _ObterResumoFinanceiroService;
-        public ResumoExcelService(IObterResumoFinanceiroService ObterResumoFinanceiroService) 
+        private readonly IObterResumoFinanceiroService _obterResumoFinanceiroService;
+        private readonly string _savePath;
+
+        public ResumoExcelService(IObterResumoFinanceiroService obterResumoFinanceiroService, IConfiguration configuration)
         {
-            _ObterResumoFinanceiroService = ObterResumoFinanceiroService;
+            _obterResumoFinanceiroService = obterResumoFinanceiroService;
+            _savePath = configuration["FileSettings:SavePath"]; // pegando do appsettings.json
         }
 
         public void GerarExcelRelatorioResumo(List<ResumoFinanceiro> resumoFinanceiro, DateTime dataInicio, DateTime dataFim)
         {
-
             using var package = new ExcelPackage();
 
             var worksheet = package.Workbook.Worksheets.Add("Resumo Financeiro");
@@ -34,7 +38,7 @@ namespace Projeto_Financeiro.Application.Services
                 range.Style.Fill.BackgroundColor.SetColor(Color.LightGray);
             }
 
-            // Adiciona os dados da lista no Excel
+            // Dados
             for (int i = 0; i < resumoFinanceiro.Count; i++)
             {
                 var item = resumoFinanceiro[i];
@@ -50,12 +54,11 @@ namespace Projeto_Financeiro.Application.Services
 
             worksheet.Cells.AutoFitColumns();
 
-            // Exemplo: salvar em disco (pode alterar o caminho conforme necessário)
             var segundoAtual = DateTime.Now.Second;
-            var nomeArquivo = $"ResumoFinanceiro_{dataInicio:yyyyMMdd}_{dataFim:yyyyMMdd}.xlsx_{segundoAtual}";
-            var caminho = Path.Combine("C:\\Repository", nomeArquivo); // ajuste para onde quer salvar
+            var nomeArquivo = $"ResumoFinanceiro_{dataInicio:yyyyMMdd}_{dataFim:yyyyMMdd}{segundoAtual}.xlsx";
+            var caminho = Path.Combine(_savePath, nomeArquivo);
+
             File.WriteAllBytes(caminho, package.GetAsByteArray());
         }
-
     }
 }
