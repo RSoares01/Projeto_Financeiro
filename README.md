@@ -75,7 +75,7 @@ dotnet run
 Para gerar relatórios em Excel, altere o caminho onde o arquivo será salvo no appsettings.json:
 
   "FileSettings": {
-    "SavePath": "C:\\Users\\Andrea\\Desktop\\Rafael(Melhor Genro do Mundo)\\Repository"
+    "SavePath": "C:\\Users\\Desktop\\Repository"
 }
 
 
