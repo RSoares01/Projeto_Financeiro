@@ -1,56 +1,56 @@
 Projeto_Financeiro
 🚀 Tecnologias Utilizadas
 
-ASP.NET Core 8
+ -ASP.NET Core 8
 
-Entity Framework Core
+ -Entity Framework Core
 
-SQL Server (LocalDB ou SQL Express)
+ -SQL Server (LocalDB ou SQL Express)
 
-JWT Authentication (Autorização por Roles)
+ -JWT Authentication (Autorização por Roles)
 
-xUnit + Moq (testes)
+ -xUnit + Moq (testes)
 
 🛡️ Validações de Negócio
 
-As seguintes regras de negócio foram implementadas e validadas diretamente no banco de dados, garantindo maior segurança e integridade dos dados:
+ -As seguintes regras de negócio foram implementadas e validadas diretamente no banco de dados, garantindo maior segurança e integridade dos dados:
 
-Valor deve ser maior que zero
+ -Valor deve ser maior que zero
 
-Data não pode ser futura
+ -Data não pode ser futura
 
-Categoria deve existir e estar ativa
+ -Categoria deve existir e estar ativa
 
-Descrição é obrigatória
+ -Descrição é obrigatória
 
 🔧 Como rodar localmente
-Pré-requisitos:
+ -Pré-requisitos:
 
-.NET 8 SDK
+ -.NET 8 SDK
 
-SQL Server Express LocalDB
+ -SQL Server Express LocalDB
 
-Visual Studio 2022 ou superior (ou VS Code com extensão C#)
+ -Visual Studio 2022 ou superior (ou VS Code com extensão C#)
 
-Git instalado
+ -Git instalado
 
-Passos para rodar o projeto:
+ -Passos para rodar o projeto:
 
-Clone o repositório:
+ Clone o repositório:
 
-git clone https://github.com/RSoares01/Projeto_Financeiro.git
-cd Projeto_Financeiro
+ -git clone https://github.com/RSoares01/Projeto_Financeiro.git
+ -cd Projeto_Financeiro
 
 
 Verifique a connection string do banco de dados no arquivo appsettings.json na raiz do projeto (ou na pasta da API).
-Exemplo de connection string local para SQL Server Express LocalDB:
+ -Exemplo de connection string local para SQL Server Express LocalDB:
 
 "ConnectionStrings": {
   "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=ProjetoFinanceiroDB;Trusted_Connection=True;MultipleActiveResultSets=true"
 }
 
 
-Nota: Ajuste o nome do banco ou o servidor se necessário, de acordo com sua configuração local.
+Ajuste o nome do banco ou o servidor se necessário, de acordo com sua configuração local.
 
 Rode a API de autenticação primeiro, que é responsável por gerar o token JWT:
 
@@ -85,4 +85,4 @@ Recomendamos definir um caminho dentro da pasta do seu projeto para facilitar o 
 
 Para executar os testes automatizados (xUnit + Moq), use:
 
-dotnet test
+ -dotnet test
