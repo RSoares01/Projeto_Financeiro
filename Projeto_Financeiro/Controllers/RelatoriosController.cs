@@ -4,17 +4,19 @@ using System.Reflection.Metadata;
 
 namespace Projeto_Financeiro.Controllers
 {
-    public class RelatorioController : ControllerBase
+    public class RelatoriosController : ControllerBase
     {
         private readonly IObterResumoFinanceiroService _obterResumoFinanceiroService;
         private readonly IObterRelatorioCategoriaService _obterRelatorioCategoriaService; 
         private readonly IResumoExcelService _resumoExcelService;
+        private readonly IRelatorioCategoriaExcelService _relatorioCategoriaExcelService;
 
-        public RelatorioController(IObterResumoFinanceiroService obterResumoFinanceiroService, IObterRelatorioCategoriaService obterRelatorioCategoriaService, IResumoExcelService resumoExcelService)
+        public RelatoriosController(IObterResumoFinanceiroService obterResumoFinanceiroService, IObterRelatorioCategoriaService obterRelatorioCategoriaService, IResumoExcelService resumoExcelService, IRelatorioCategoriaExcelService relatorioCategoriaExcelService)
         {
             _obterResumoFinanceiroService = obterResumoFinanceiroService;
             _obterRelatorioCategoriaService = obterRelatorioCategoriaService;
             _resumoExcelService = resumoExcelService;
+            _relatorioCategoriaExcelService = relatorioCategoriaExcelService;
         }
 
         [HttpGet("resumo")]
@@ -34,6 +36,11 @@ namespace Projeto_Financeiro.Controllers
         public async Task<IActionResult> ObterResumoPorCategoria([FromQuery] DateTime dataInicio, [FromQuery] DateTime dataFim)
         {
             var resumo = await _obterRelatorioCategoriaService.spRelatorioCategoriaAsync(dataInicio, dataFim);
+            if (resumo == null)
+                return NotFound();
+
+            _relatorioCategoriaExcelService.GerarRelatorioByCategoriaExcel(resumo, dataInicio, dataFim);
+
             return Ok(resumo);
         }
     }

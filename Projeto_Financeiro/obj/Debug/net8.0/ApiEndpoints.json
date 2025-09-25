@@ -235,7 +235,7 @@
     ]
   },
   {
-    "ContainingType": "Projeto_Financeiro.Controllers.RelatorioController",
+    "ContainingType": "Projeto_Financeiro.Controllers.RelatoriosController",
     "Method": "ObterResumoPorCategoria",
     "RelativePath": "por-categoria",
     "HttpMethod": "GET",
@@ -256,7 +256,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Projeto_Financeiro.Controllers.RelatorioController",
+    "ContainingType": "Projeto_Financeiro.Controllers.RelatoriosController",
     "Method": "ObterResumo",
     "RelativePath": "resumo",
     "HttpMethod": "GET",

@@ -51,7 +51,8 @@ namespace Projeto_Financeiro.Application.Services
             worksheet.Cells.AutoFitColumns();
 
             // Exemplo: salvar em disco (pode alterar o caminho conforme necessário)
-            var nomeArquivo = $"ResumoFinanceiro_{dataInicio:yyyyMMdd}_{dataFim:yyyyMMdd}.xlsx";
+            var segundoAtual = DateTime.Now.Second;
+            var nomeArquivo = $"ResumoFinanceiro_{dataInicio:yyyyMMdd}_{dataFim:yyyyMMdd}.xlsx_{segundoAtual}";
             var caminho = Path.Combine("C:\\Repository", nomeArquivo); // ajuste para onde quer salvar
             File.WriteAllBytes(caminho, package.GetAsByteArray());
         }

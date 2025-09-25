@@ -29,6 +29,7 @@ builder.Services.AddScoped<IRelatorioRepository, RelatorioRepository>();
 builder.Services.AddScoped<IObterResumoFinanceiroService, ObterResumoFinanceiroService>();
 builder.Services.AddScoped<IObterRelatorioCategoriaService,  ObterRelatorioCategoriaService>();
 builder.Services.AddScoped<IResumoExcelService, ResumoExcelService>();
+builder.Services.AddScoped<IRelatorioCategoriaExcelService, RelatorioCategoriaExcelService>();
 
 var app = builder.Build();
 

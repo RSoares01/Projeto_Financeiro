@@ -99,7 +99,7 @@
     "/resumo": {
       "get": {
         "tags": [
-          "Relatorio"
+          "Relatorios"
         ],
         "parameters": [
           {
@@ -129,7 +129,7 @@
     "/por-categoria": {
       "get": {
         "tags": [
-          "Relatorio"
+          "Relatorios"
         ],
         "parameters": [
           {
