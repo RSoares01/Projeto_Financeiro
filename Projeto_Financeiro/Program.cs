@@ -1,9 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Projeto_Financeiro.Infrastructure.Middleware;
 using Projeto_Financeiro.Application.Services;
 using Projeto_Financeiro.Application.Services.Interfaces;
+using Projeto_Financeiro.Domain.Interfaces.IRepositories;
 using Projeto_Financeiro.Infrastructure.Context;
 using Projeto_Financeiro.Infrastructure.Repositories;
-using Projeto_Financeiro.Domain.Interfaces.IRepositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +24,9 @@ builder.Services.AddScoped<ITransacoesService, TransacoesService>();
 builder.Services.AddScoped<ITransacoesRepository, TransacoesRepository>();
 
 var app = builder.Build();
+
+app.UseMiddleware<ExceptionMiddleware>();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
