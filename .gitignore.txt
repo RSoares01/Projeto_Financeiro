@@ -2,6 +2,8 @@
 .vs/
 *.user
 *.suo
+.bin
+*.bin
 
 
 ## Ignore arquivos de build

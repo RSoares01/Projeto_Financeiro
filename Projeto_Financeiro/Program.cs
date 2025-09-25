@@ -1,5 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
+<<<<<<< HEAD
 using OfficeOpenXml;
+=======
+using Projeto_Financeiro.Infrastructure.Middleware;
+>>>>>>> TratativaErros
 using Projeto_Financeiro.Application.Services;
 using Projeto_Financeiro.Application.Services.Interfaces;
 using Projeto_Financeiro.Domain.Interfaces.IRepositories;
@@ -32,6 +36,9 @@ builder.Services.AddScoped<IResumoExcelService, ResumoExcelService>();
 builder.Services.AddScoped<IRelatorioCategoriaExcelService, RelatorioCategoriaExcelService>();
 
 var app = builder.Build();
+
+app.UseMiddleware<ExceptionMiddleware>();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
